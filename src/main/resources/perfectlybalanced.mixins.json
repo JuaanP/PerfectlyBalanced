@@ -1,9 +1,13 @@
 {
 	"required": true,
-	"package": "com.juaanp.mixin",
+	"package": "com.juaanp.perfectlybalanced.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"BlocksMixin"
+		"BlocksMixin",
+		"ThornsEnchantmentMixin",
+		"AbstractHorseEntityMixin",
+		"FrostWalkerEnchantmentMixin",
+		"AnimalEntityMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

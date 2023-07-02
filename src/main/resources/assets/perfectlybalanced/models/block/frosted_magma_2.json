@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "perfectlybalanced:block/frosted_magma_2"
+  }
+}

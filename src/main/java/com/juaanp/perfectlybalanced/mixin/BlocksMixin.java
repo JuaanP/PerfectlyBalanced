@@ -1,9 +1,7 @@
-package com.juaanp.mixin;
+package com.juaanp.perfectlybalanced.mixin;
 
-import com.juaanp.PerfectlyBalanced;
 import net.minecraft.block.*;
 import net.minecraft.sound.BlockSoundGroup;
-import org.slf4j.Logger;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Redirect;
@@ -12,8 +10,6 @@ import org.spongepowered.asm.mixin.injection.Slice;
 @Mixin(Blocks.class)
 public abstract class BlocksMixin
 {
-    Logger logger = PerfectlyBalanced.LOGGER;
-
     @Redirect(
             slice = @Slice(
                     from = @At(
@@ -31,6 +27,6 @@ public abstract class BlocksMixin
             ),
             method = "<clinit>")
     private static PillarBlock deepslate(AbstractBlock.Settings settings) {
-        return new PillarBlock(AbstractBlock.Settings.of(Material.STONE, MapColor.DEEPSLATE_GRAY).requiresTool().strength(1.85F, 6.0F).sounds(BlockSoundGroup.DEEPSLATE));
+        return new PillarBlock(AbstractBlock.Settings.of(Material.STONE, MapColor.DEEPSLATE_GRAY).requiresTool().strength(1.6F, 6.0F).sounds(BlockSoundGroup.DEEPSLATE));
     }
 }

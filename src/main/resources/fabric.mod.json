@@ -3,27 +3,27 @@
 	"id": "perfectlybalanced",
 	"version": "${version}",
 	"name": "Perfectly Balanced",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "as all things should be",
 	"authors": [
 		"Me!"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/JuaanP/",
+		"sources": "https://github.com/JuaanP/PerfectlyBalanced"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/perfectlybalanced/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-          "com.juaanp.PerfectlyBalanced"
+			"com.juaanp.perfectlybalanced.PerfectlyBalanced"
 		]
 	},
 	"mixins": [
 		"perfectlybalanced.mixins.json"
 	],
 	"depends": {
-		"fabricloader": ">=0.14.21",
+		"fabricloader": ">=0.14.0",
 		"minecraft": "~1.19.2",
 		"java": ">=17",
 		"fabric-api": "*"
