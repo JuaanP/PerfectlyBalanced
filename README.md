@@ -1,5 +1,5 @@
 
-# PerfectlyBalanced
+# Perfectly Balanced
 
 This mod aims to balance and enrich the game's content by providing new utilities to certain items and creatures that lack them, improving frustrating mechanics, and making other necessary changes to deliver the best possible Minecraft experience.
 
