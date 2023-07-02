@@ -23,5 +23,5 @@ This mod aims to balance and enrich the game's content by providing new utilitie
 
 
 ### Blocks
-<span style="color: blue;">Este texto está en azul</span>
+
 > - **Weaker Deepslate** (Breaks faster => Insta-mine with Netherite Pickaxe *Efficieny 5 + Haste 2*)
