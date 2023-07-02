@@ -7,21 +7,29 @@ This mod aims to balance and enrich the game's content by providing new utilitie
 
 ## Enchantments
 
-> - **Thorns** (Significantly more damage and success rate per level)
+### ⬆️ Buffed ⬆️
+
+> - **Thorns** *Significantly more damage and success rate per level*
 >
 > 
-> - **Frost Walker** (Works on lava and while sprinting and jumping)
+> - **Frost Walker** *Works on lava and while sprinting and jumping*
 
+### ⬇️ Debuffed ⬇️
 
 
 ## Mobs
 
-> - **Buffed Horses** (Faster, Better, Stronger)
->
->
-> - **Faster Baby Feed Grow up** (Grow up animal babies with much less food)
+### ⬆️ Buffed ⬆️
 
+> - **Horses** *Faster, Better, Stronger*
+>
+>
+> - **Animals** *Grow up babies with much less food*
+
+### ⬇️ Debuffed ⬇️
 
 ## Blocks
 
-> - **Weaker Deepslate** (Breaks faster => Insta-mine with Netherite Pickaxe *Efficieny 5 + Haste 2*)
+### ⬆️ Buffed ⬆️
+
+> - **Deepslate** *Breaks faster => Insta-mine with Netherite Pickaxe, Efficieny 5 and Haste 2*)
