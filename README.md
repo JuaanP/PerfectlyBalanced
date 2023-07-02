@@ -5,7 +5,7 @@ This mod aims to balance and enrich the game's content by providing new utilitie
 
 
 
-### Enchantments
+## Enchantments
 
 > - **Thorns** (Significantly more damage and success rate per level)
 >
@@ -14,7 +14,7 @@ This mod aims to balance and enrich the game's content by providing new utilitie
 
 
 
-### Mobs
+## Mobs
 
 > - **Buffed Horses** (Faster, Better, Stronger)
 >
@@ -22,6 +22,6 @@ This mod aims to balance and enrich the game's content by providing new utilitie
 > - **Faster Baby Feed Grow up** (Grow up animal babies with much less food)
 
 
-### Blocks
+## Blocks
 
 > - **Weaker Deepslate** (Breaks faster => Insta-mine with Netherite Pickaxe *Efficieny 5 + Haste 2*)
