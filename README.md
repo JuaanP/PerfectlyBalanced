@@ -4,6 +4,18 @@
 This mod aims to balance and enrich the game's content by providing new utilities to certain items and creatures that lack them, improving frustrating mechanics, and making other necessary changes to deliver the best possible Minecraft experience.
 
 
+## Items
+
+#### ⬆️ Buffed ⬆️
+
+> - **Crossbow** *More damage/arrow speed and compatibility with Infinity (WIP)*
+>
+>
+> - **Bottle o' Enchanting** *Contains significantly more experience*
+ 
+
+#### ⬇️ Debuffed ⬇️
+
 
 ## Enchantments
 
@@ -13,9 +25,13 @@ This mod aims to balance and enrich the game's content by providing new utilitie
 >
 > 
 > - **Frost Walker** *Works on lava and while sprinting and jumping*
+> 
+> 
+> - **Bane of Arthropods** *Also gives slowness and wither to all mobs*
 
 #### ⬇️ Debuffed ⬇️
 
+> - **Mending** *Uses more experience to repair*
 
 ## Mobs
 

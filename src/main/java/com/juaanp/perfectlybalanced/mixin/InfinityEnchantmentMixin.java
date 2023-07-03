@@ -7,7 +7,7 @@ import org.spongepowered.asm.mixin.Mixin;
 
 @Mixin(targets = "net.minecraft.enchantment.$InfinityEnchantment")
 public class InfinityEnchantmentMixin extends Enchantment {
-    protected InfinityEnchantmentMixin(Rarity weight, EquipmentSlot[] slotTypes) {
-        super(weight, EnchantmentTarget.TRIDENT, slotTypes);
+    private InfinityEnchantmentMixin(Rarity weight, EquipmentSlot[] slotTypes) {
+        super(weight, EnchantmentTarget.CROSSBOW, slotTypes);
     }
 }

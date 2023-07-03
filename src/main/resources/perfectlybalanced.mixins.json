@@ -8,6 +8,8 @@
     "BlocksMixin",
     "CrossbowItemMixin",
     "DamageEnchantmentMixin",
+    "ExperienceBottleEntityMixin",
+    "ExperienceOrbEntityMixin",
     "FrostWalkerEnchantmentMixin",
     "InfinityEnchantmentMixin",
     "ThornsEnchantmentMixin"
