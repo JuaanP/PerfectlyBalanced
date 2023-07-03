@@ -2,9 +2,7 @@ package com.juaanp.perfectlybalanced;
 
 import net.fabricmc.api.ModInitializer;
 
-import net.fabricmc.fabric.api.event.lifecycle.v1.ServerTickEvents;
-import net.fabricmc.fabric.api.event.player.AttackEntityCallback;
-import net.minecraft.util.ActionResult;
+import net.fabricmc.fabric.api.entity.event.v1.ServerEntityWorldChangeEvents;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -15,5 +13,6 @@ public class PerfectlyBalanced implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		AllBlocks.registerAllBlocks();
+		AllItems.registerAllItems();
 	}
 }

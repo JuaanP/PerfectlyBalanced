@@ -10,7 +10,7 @@ import net.minecraft.util.registry.RegistryKey;
 
 public class AllBlocks {
 
-    public static final Block FROSTED_MAGMA = new FrostedMagmaBlock(AbstractBlock.Settings.of(Material.STONE).sounds(BlockSoundGroup.DEEPSLATE).hardness(3f).resistance(6f).slipperiness(0.7f).velocityMultiplier(0.8f).jumpVelocityMultiplier(0.8f));
+    public static final Block FROSTED_MAGMA = new FrostedMagmaBlock(AbstractBlock.Settings.of(Material.STONE).sounds(BlockSoundGroup.DEEPSLATE).hardness(3f).resistance(6f).slipperiness(0.7f).velocityMultiplier(0.7f).jumpVelocityMultiplier(0.9f));
 
     public static void addBlock(String name, Block block){
         Registry.register(Registry.BLOCK, new Identifier(PerfectlyBalanced.MOD_ID, name), block);
