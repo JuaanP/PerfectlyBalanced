@@ -53,4 +53,4 @@ This mod aims to balance and enrich the game's content by providing new utilitie
 
 #### ⬇️ Debuffed ⬇️
 
-> - **Deepslate** *Breaks faster => Insta-mine with Netherite Pickaxe, Efficieny 5 and Haste 2*)
+> - **Deepslate** *Breaks faster => Insta-mine with Netherite Pickaxe, Efficiency 5 and Haste 2*)
