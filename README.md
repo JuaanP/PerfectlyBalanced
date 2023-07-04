@@ -28,6 +28,9 @@ This mod aims to balance and enrich the game's content by providing new utilitie
 > 
 > 
 > - **Bane of Arthropods** *Also gives slowness and wither to all mobs*
+> 
+>
+> - **Sweeping Edge** *Added levels IV, V*
 
 #### ⬇️ Debuffed ⬇️
 
@@ -44,8 +47,10 @@ This mod aims to balance and enrich the game's content by providing new utilitie
 
 #### ⬇️ Debuffed ⬇️
 
+> - **Creeper** *Only ignites if it is within the player's field of view*
+
 ## Blocks
 
-#### ⬆️ Buffed ⬆️
+#### ⬇️ Debuffed ⬇️
 
 > - **Deepslate** *Breaks faster => Insta-mine with Netherite Pickaxe, Efficieny 5 and Haste 2*)

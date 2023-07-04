@@ -7,7 +7,6 @@ import org.spongepowered.asm.mixin.injection.ModifyVariable;
 
 @Mixin(CrossbowItem.class)
 public abstract class CrossbowItemMixin {
-
     @ModifyVariable(method = "shoot", index = 7, at = @At("HEAD"), argsOnly = true)
     private static float shoot(float value) {
         return value * 1.5F;

@@ -6,12 +6,14 @@
     "AbstractHorseEntityMixin",
     "AnimalEntityMixin",
     "BlocksMixin",
+    "CreeperIgniteGoalMixin",
     "CrossbowItemMixin",
     "DamageEnchantmentMixin",
     "ExperienceBottleEntityMixin",
     "ExperienceOrbEntityMixin",
     "FrostWalkerEnchantmentMixin",
     "InfinityEnchantmentMixin",
+    "SweepingEnchantmentMixin",
     "ThornsEnchantmentMixin"
   ],
   "injectors": {

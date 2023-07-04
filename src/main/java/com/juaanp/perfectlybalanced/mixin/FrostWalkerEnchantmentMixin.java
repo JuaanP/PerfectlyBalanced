@@ -13,8 +13,6 @@ import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 
-import java.util.Iterator;
-
 @Mixin(FrostWalkerEnchantment.class)
 public abstract class FrostWalkerEnchantmentMixin {
 
@@ -22,7 +20,7 @@ public abstract class FrostWalkerEnchantmentMixin {
     private static void freezeWater(LivingEntity entity, World world, BlockPos blockPos, int level, CallbackInfo ci) {
         if (entity instanceof PlayerEntity) {
 
-            if (!entity.isInSneakingPose())
+            if (!entity.isInSneakingPose() && entity.fallDistance <= 3)
             {
                 BlockState frosted_iceDefaultState = Blocks.FROSTED_ICE.getDefaultState();
                 BlockState frosted_magmaDefaultState = AllBlocks.FROSTED_MAGMA.getDefaultState();
