@@ -5,6 +5,10 @@ This mod aims to balance and enrich the game's content by providing new utilitie
 
 
 ## Items
+#### ⭐ New ⭐
+
+> - **Infernal Stew, Infernal Noodles** *Provides short fire resistance*
+
 
 #### ⬆️ Buffed ⬆️
 
@@ -12,6 +16,9 @@ This mod aims to balance and enrich the game's content by providing new utilitie
 >
 >
 > - **Bottle o' Enchanting** *Contains significantly more experience*
+> 
+>
+> - **Poisonous Potato** *Can now be thrown causing poison on target (WIP)*
  
 
 #### ⬇️ Debuffed ⬇️

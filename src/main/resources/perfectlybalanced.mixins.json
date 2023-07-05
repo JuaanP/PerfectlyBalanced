@@ -5,6 +5,7 @@
   "mixins": [
     "AbstractHorseEntityMixin",
     "AnimalEntityMixin",
+    "BlockLootTableGeneratorMixin",
     "BlocksMixin",
     "CreeperIgniteGoalMixin",
     "CrossbowItemMixin",
